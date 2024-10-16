@@ -39,7 +39,7 @@ A full-stack quiz application built with a modern technology stack, featuring a 
 1. Clone the repository:
 
 	```bash
-	git clone https://github.com/your-username/react-quiz-app.git
+	git clone https://github.com/XIAX66/React-Quiz-App.git
 	cd react-quiz-app
 	```
 
@@ -155,7 +155,7 @@ This project demonstrates the use of a **full-stack JavaScript** environment wit
 1. 克隆仓库:
 
 	```bash
-	git clone https://github.com/your-username/react-quiz-app.git
+	git clone https://github.com/XIAX66/React-Quiz-App.git
 	cd react-quiz-app
 	```
 
@@ -176,8 +176,8 @@ This project demonstrates the use of a **full-stack JavaScript** environment wit
 	- 根据Atlas提供的连接信息，更新 `USERNAME` 和 `DATABASE_PASSWORD`。格式如下:
 
 		```bash
-		USERNAME=(你的MongoDB用户名)    
-		DATABASE_PASSWORD=(你的MongoDB密码)
+		USERNAME=(YOUR MONGODB USERNAME)    
+		DATABASE_PASSWORD=(YOUR MONGODB PASSWORD)
 		DATABASE=mongodb+srv://<USERNAME>:<PASSWORD>@cluster0.fnghc.mongodb.net/react_quiz?retryWrites=true&w=majority&appName=Cluster0
 		```
 
@@ -233,7 +233,3 @@ This project demonstrates the use of a **full-stack JavaScript** environment wit
 ## 结论
 
 该项目展示了如何使用一个 **全栈JavaScript** 环境构建具有丰富功能和成熟技术栈的可扩展Web应用。React前端与Node.js后端无缝结合，提供了一个动态的测验平台，实现实时反馈和互动。
-
----
-
-By clicking the links at the top of the document, users can easily switch between English and Chinese versions.
